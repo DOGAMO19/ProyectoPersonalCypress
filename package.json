@@ -1,0 +1,18 @@
+{
+  "name": "orange-page-testing",
+  "version": "1.0.0",
+  "description": "orange page test automation",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.14.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.4.0"
+  }
+}
